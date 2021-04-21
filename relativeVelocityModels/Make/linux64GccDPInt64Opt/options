@@ -1,0 +1,14 @@
+# 1 "Make/options"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "Make/options"
+EXE_INC = -I../ninePhaseMixture -I../incompressibleNinePhaseInteractingMixture -I../mixtureViscosityModels/lnInclude -I$(LIB_SRC)/finiteVolume/lnInclude -I$(LIB_SRC)/transportModels -I$(LIB_SRC)/transportModels/incompressible/lnInclude -I$(LIB_SRC)/transportModels/interfaceProperties/lnInclude
+
+
+
+
+
+
+
+
+LIB_LIBS = -lfiniteVolume -lincompressibleTransportModels

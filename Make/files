@@ -1,0 +1,7 @@
+ninePhaseMixture/ninePhaseMixture.C
+incompressibleNinePhaseInteractingMixture/incompressibleNinePhaseInteractingMixture.C
+ninePhaseInterfaceProperties/ninePhaseInterfaceProperties.C
+compressibleTurbulenceModels.C
+STORMASMRf.C
+
+EXE = $(FOAM_APPBIN)/STORMASMRf

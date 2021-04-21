@@ -1,0 +1,6 @@
+SOURCE = \
+ninePhaseMixture/ninePhaseMixture.C \
+incompressibleNinePhaseInteractingMixture/incompressibleNinePhaseInteractingMixture.C \
+ninePhaseInterfaceProperties/ninePhaseInterfaceProperties.C \
+compressibleTurbulenceModels.C \
+VOFManinnen.C 

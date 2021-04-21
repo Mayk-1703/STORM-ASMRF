@@ -1,0 +1,3 @@
+relativeVelocityModel/relativeVelocityModel.C
+Maninnen/Maninnen.C
+LIB = $(FOAM_LIBBIN)/libManinnenIMRelativeVelocityModels

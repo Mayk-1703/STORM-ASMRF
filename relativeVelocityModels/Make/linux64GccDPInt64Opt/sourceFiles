@@ -1,0 +1,3 @@
+SOURCE = \
+relativeVelocityModel/relativeVelocityModel.C \
+Maninnen/Maninnen.C 
